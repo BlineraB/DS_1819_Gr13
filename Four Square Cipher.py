@@ -1,8 +1,3 @@
-#March 23rd 2017
-#**************Four Square cipher********
-#
-
-
 alphabet = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y'] #letter Z ommited
 
 def getData(): 	#get data from user
